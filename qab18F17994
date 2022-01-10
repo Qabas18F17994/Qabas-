@@ -2,14 +2,14 @@ import java.util.*;
 class Q3
 {
 	String Ename;
-	int year;
+	int y;
 	public void inter()
 {
 	Scanner QH=new Scanner(System.in);
 	System.out.print("ENTER THE NAME : ");
 	Ename=QH.nextLine();
 	System.out.print("ENTER age: ");
-	year=QH.nextInt();
+	y=QH.nextInt();
   }
   }
   
