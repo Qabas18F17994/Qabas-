@@ -1,0 +1,24 @@
+import java.util.*;
+class Q3
+{
+	String Ename;
+	int year;
+	public void inter()
+{
+	Scanner QH=new Scanner(System.in);
+	System.out.print("ENTER THE NAME : ");
+	Ename=QH.nextLine();
+	System.out.print("ENTER age: ");
+	year=QH.nextInt();
+  }
+  }
+  
+   class show
+ {
+ 	public static void main(String args[])
+ {
+ Q3 obj=new Q3();
+      obj .acc();                                                              
+  }
+ }
+
