@@ -6,7 +6,7 @@ class Q3
 	public void inter()
 {
 	Scanner QH=new Scanner(System.in);
-	System.out.print("ENTER THE NAME : ");
+	System.out.print("ENTER your NAME : ");
 	Ename=QH.nextLine();
 	System.out.print("ENTER age: ");
 	year=QH.nextInt();
